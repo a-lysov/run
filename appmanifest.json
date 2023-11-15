@@ -1,0 +1,11 @@
+{
+	"name": "Run",
+	"short_name": "Run",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [],
+	"theme_color": "#000000"
+}
